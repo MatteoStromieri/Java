@@ -1,0 +1,4 @@
+filetype:associazione
+in_attività_dal:2020
+sede:Roma
+scopo:culturale

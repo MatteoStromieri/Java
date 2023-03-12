@@ -1,0 +1,5 @@
+filetype:ristorante
+in_attività_dal:2020
+sede:Roma
+partita_IVA:abc1234
+categoria:pizzeria
